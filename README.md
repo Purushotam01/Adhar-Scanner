@@ -1,4 +1,4 @@
-# adhaar_scan
+# Aadhaar Scanner
 
 A new Flutter project.
 
