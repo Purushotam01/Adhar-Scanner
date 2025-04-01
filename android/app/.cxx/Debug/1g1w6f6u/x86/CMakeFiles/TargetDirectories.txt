@@ -1,0 +1,2 @@
+D:/adhaar_scan/adhaar_scan/android/app/.cxx/Debug/1g1w6f6u/x86/CMakeFiles/edit_cache.dir
+D:/adhaar_scan/adhaar_scan/android/app/.cxx/Debug/1g1w6f6u/x86/CMakeFiles/rebuild_cache.dir
